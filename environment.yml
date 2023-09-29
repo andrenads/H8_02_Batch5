@@ -14,3 +14,7 @@ dependencies:
   - wordcloud
   - seaborn
   - folium
+  - scipy
+  - scikit-learn
+  - plotly
+  - geopy
