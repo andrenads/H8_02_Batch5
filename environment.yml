@@ -18,3 +18,7 @@ dependencies:
   - scikit-learn
   - plotly
   - geopy
+  - graphviz
+  - pydotplus
+  - sympy
+  - dython
